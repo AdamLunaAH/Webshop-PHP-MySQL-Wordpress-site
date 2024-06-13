@@ -1,0 +1,30 @@
+{ "Skola":"Hermods",
+ "teachers":
+[{
+ "Id": 1,
+ "Namn":"Oscar Antbring",
+ "Salury": 2000000,
+ "Awesome": true,
+ "elever": [{
+ "namn": "Bengt",
+ "efternamn": "Svensson",
+ "age": 40
+ },
+ {
+ "namn": "Bengt",
+ "efternamn": "Antbring",
+ "age": 22
+ }]
+},
+{
+ "Id": 2,
+ "Namn":"Berit Nilsson",
+ "Salury": 5000,
+ "Awesome": false,
+ "elever": [{
+ "namn": "Robert",
+ "efternamn": "Andersson",
+ "age": 22
+ }]
+}]
+}
